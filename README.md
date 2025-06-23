@@ -1,0 +1,2 @@
+# SuperTrunfo
+Desafio: nível novato
